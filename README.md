@@ -3,7 +3,7 @@
 
 Updating and accessing JSON through a Node.js server, using GET and POST
 ![image](https://github.com/UO-CIT-sshina/cit281-lab5/blob/main/SingleStudent.png?raw=true)
-![image](https://github.com/UO-CIT-sshina/cit281-lab5/blob/main/StudentPost.png)
+![image](https://github.com/UO-CIT-sshina/cit281-lab5/blob/main/StudentPost.png?raw=true)
 
 Using JS, JSON, Fastify, and Postman
 
